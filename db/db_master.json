@@ -1,0 +1,49 @@
+{
+	"line": [
+		{"id_line":"NON_LINE", "nama_line":"NON LINE"}
+		
+	],
+	"regu": ["A", "B", "C", "D", "N"],
+	"shift": [1, 2, 3],
+	"jenis_pelanggaran" : ["Absensi","Kuku","Rambut","Make_Up","Aksesoris","Kunci Loker","Cuci Tangan", "Seragam","Other"],
+	"satuan": ["kg","meter","ini_nilai"],
+	"brand" :[
+		{"nama":"CHITATO", "singkatan":"CTT"}
+	],
+	"rasa" :[
+		{"nama":"BEEF BARBEQUE", "singkatan":"BEB"}
+	],
+	"pack_per_kg": [
+		{"brand": "CTT15", "pack": 329.29}
+	],
+	"size": [10,14,15,16,18.5,19.5,20,22.5,23,35],
+	"mesin_packing": [
+		{"no_mesin":"A01"}
+		
+	],
+	"kondisi_pack": ["Standart","Bocor"],
+	"keperluan_ambil_fg" : ["VACUM","SHELF_LIFE","SAMPLING_DEFECT","TRIAL"],
+	"pasal_pkb" :[
+		{"no_pasal":"17.1", "isi":"Mangkir, meninggalkan pekerjaan, terlambat hadir atau pulang lebih awal dari pekerjaan tanpa izin Atasan/Pimpinan."}
+	],
+	"status_karyawan": ["Tetap","Kontrak"],
+	"perihal_sp": ["Surat Peringatan I (Satu)","Surat Peringatan II (Dua)", "Surat Peringatan III (Tiga)"],
+	"status_serah_terima": ["Karyawan Menerima","Karyawan Mengembalikan"],
+	"kondisi": ["OK","NOT OK"],
+	"jenis_absensi": ["SAKIT","DISPENSASI","CTU"],
+	"klinik": [
+		{"no_telepon":"0", "nama_klinik":"None", "alamat":""},
+		
+	],
+	"master_waste": [
+		{"id":"1", "nama_waste":"Chips Potato", "berat_box":"34.5"}		
+	],
+	"barang_building":[
+		{"id":"GA01", "nama_barang":"Grill A01"}
+	],
+	"kondisi_kebersihan": ["KOTOR","BERSIH"],
+	"kategori_building": ["GRILL/SALURAN UDARA","KACA GALERI", "TEMBOK/DINDING","PLATFORM/ATAP/KAP LAMPU","PIPA/TIANG","OTHER"],
+	"area": ["Proses PC32","Other"],
+	"nama_alat": ["sapu","lap_majun","other"]
+	
+}
