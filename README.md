@@ -84,3 +84,19 @@ docs/
 ## 📄 License
 
 MIT License
+
+### Login Page
+![Login](docs/login.png)
+
+### Dashboard
+![Dashboard](docs/dashboard.png)
+
+### Form Builder
+![Form Builder](docs/generator.png)
+
+### Report
+![Report](docs/report.png)
+
+
+
+
