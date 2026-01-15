@@ -78,7 +78,7 @@ MIT License
 
 ## 📸 Screenshots
 
-> Add screenshots in `/docs` folder
+> Screenshots in `/docs` folder
 
 ### Login Page
 ![Login](docs/login.JPG)
@@ -91,6 +91,7 @@ MIT License
 
 ### Report
 ![Report](docs/report.JPG)
+
 
 
 
