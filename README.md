@@ -44,7 +44,7 @@ Form schemas and submissions are stored in **JSON**, while **PostgreSQL** is use
 ---
 
 ## 📁 Folder Structure
-
+```
 smart_pro/
 ├── assets/
 │ ├── css/
@@ -68,7 +68,7 @@ smart_pro/
 ├── connection.example.php
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## 🔄 Application Flow
@@ -109,6 +109,7 @@ MIT License
 
 ### Report
 ![Report](docs/report.JPG)
+
 
 
 
