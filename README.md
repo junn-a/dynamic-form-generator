@@ -86,16 +86,17 @@ docs/
 MIT License
 
 ### Login Page
-![Login](docs/login.png)
+![Login](docs/login.JPG)
 
 ### Dashboard
-![Dashboard](docs/dashboard.png)
+![Dashboard](docs/dashboard.JPG)
 
 ### Form Builder
-![Form Builder](docs/generator.png)
+![Form Builder](docs/generator.JPG)
 
 ### Report
-![Report](docs/report.png)
+![Report](docs/report.JPG)
+
 
 
 
