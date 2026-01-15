@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">SmartPro – Dynamic Form Generator</h2>
+  <h2 align="center">Dynamic Form Generator</h2>
   <p align="center">
     No-code web application for creating dynamic forms using JSON storage
   </p>
@@ -96,6 +96,7 @@ MIT License
 
 ### Report
 ![Report](docs/report.JPG)
+
 
 
 
