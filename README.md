@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-8-blue">
-  <img src="https://img.shields.io/badge/Bootstrap-5-purple">
+  <img src="https://img.shields.io/badge/Bootstrap-4-purple">
   <img src="https://img.shields.io/badge/Database-PostgreSQL-blue">
   <img src="https://img.shields.io/badge/Storage-JSON-orange">
 </p>
@@ -96,6 +96,7 @@ MIT License
 
 ### Report
 ![Report](docs/report.JPG)
+
 
 
 
