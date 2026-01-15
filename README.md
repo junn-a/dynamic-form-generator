@@ -63,16 +63,7 @@ uploads/ -> File uploads
 
 ---
 
-## 📸 Screenshots
 
-> Add screenshots in `/docs` folder
-
-docs/
-├── login.png
-├── dashboard.png
-└── form-builder.png
-
----
 
 ## 🔒 Security Notes
 
@@ -85,6 +76,10 @@ docs/
 
 MIT License
 
+## 📸 Screenshots
+
+> Add screenshots in `/docs` folder
+
 ### Login Page
 ![Login](docs/login.JPG)
 
@@ -96,6 +91,7 @@ MIT License
 
 ### Report
 ![Report](docs/report.JPG)
+
 
 
 
